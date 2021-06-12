@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "92845279ce1bcc044d4b26ac9f461e5c",
+    "revision": "10f6bf4bf65ae7ccdf9d4d2a1f825098",
     "url": "/index.html"
   },
   {
-    "revision": "e3edff9a73733218adab",
-    "url": "/static/css/main.546e8ad5.chunk.css"
+    "revision": "89e4406de6ab26dd20a7",
+    "url": "/static/css/main.aab8c153.chunk.css"
   },
   {
-    "revision": "7e71d2f16bcccc03f3e8",
-    "url": "/static/js/2.ee5b53df.chunk.js"
+    "revision": "26aabe3ffb3e8561a945",
+    "url": "/static/js/2.4a1cff60.chunk.js"
   },
   {
     "revision": "91b77532c0b9c8d711f12adcea873e4f",
-    "url": "/static/js/2.ee5b53df.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.4a1cff60.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e3edff9a73733218adab",
-    "url": "/static/js/main.3f85e808.chunk.js"
+    "revision": "89e4406de6ab26dd20a7",
+    "url": "/static/js/main.f14c8a03.chunk.js"
   },
   {
     "revision": "b224676f2f08e989a182",
@@ -28,8 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/URFL.a9d66639.png"
   },
   {
+    "revision": "4b876bd8e407f368b9759c1ea649a309",
+    "url": "/static/media/background-gen.4b876bd8.png"
+  },
+  {
     "revision": "22862b34bd4e3f4f0751de24ab12ee47",
     "url": "/static/media/coas.22862b34.png"
+  },
+  {
+    "revision": "7f0f1b9f544437bb3c41db175107b483",
+    "url": "/static/media/dungeon-survivor.7f0f1b9f.png"
   },
   {
     "revision": "5f19b3c84a7a997f1651ff737b84e24e",
